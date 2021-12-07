@@ -1,4 +1,4 @@
-package foo.bar.quarkusissue.service.item;
+package foo.bar.quarkusissue.service;
 
 import foo.bar.quarkusissue.annotation.Child;
 import foo.bar.quarkusissue.service.FooExtensionService;
